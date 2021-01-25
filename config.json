@@ -1,0 +1,5 @@
+{
+    "token": "Token Here",
+    "mongoURI": "Mongoose URI Here",
+    "prefix": "Prefix Here"
+}
